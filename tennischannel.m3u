@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TennisChannel.USA" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel (1080p)
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.US" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel (USA)
+http://138.59.177.78:9999/play/a0gl/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.ssnl" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel (Samsung)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.lggb" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel (LG)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.rk" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel (Rakuten)
+#EXTINF:-1 tvg-id="TennisChannel.sses" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel (Spain)
+https://amg01444-tennischannelth-tennischannelspain-samsungspain-f7b4o.amagi.tv/playlist/amg01444-tennischannelth-tennischannelspain-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel2.tcl" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel 2 (TCL)
+https://amg01444-amg01444c2-tcl-us-5673.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-tclus/playlist.m3u8?GdprConsent=0&app_bundle=&app_name=&app_store_url=&device_make=&device_model=&did=&dnt=&gdpr=0&network_name=tinykernel&us_privacy=1YN-
+#EXTINF:-1 tvg-id="TennisChannel2.LG" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel 2 (LG)
+https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel2" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
